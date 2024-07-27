@@ -1,16 +1,38 @@
-## Hi there 👋
+# Welcome to DerKekser's GitHub Profile!
 
-<!--
-**DerKekser/DerKekser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=DerKekser&color=brightgreen)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm DerKekser from Germany! I am passionate about game development and enjoy creating various tools and systems for Unity. 
+
+- 🌐 [Neon Cat Games](https://neoncatgames.de/)
+- 🎮 [My Itch.io Page](https://der-kekser.itch.io/)
+
+## Projects
+
+### [Unity Power Singleton](https://github.com/DerKekser/unity-power-singleton)
+A flexible Singleton Pattern for Unity.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+### [Unity Save System](https://github.com/DerKekser/unity-save-system)
+A simple save system for Unity.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+### [Unity Component UI Renderer](https://github.com/DerKekser/unity-component-ui-renderer)
+A Unity UI framework inspired by React and Tailwind for streamlined game development.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+### [Unity Sensors](https://github.com/DerKekser/unity-sensors)
+A Unity library providing various 2D and 3D sensors to detect objects within the game environment.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+## Contact
+
+Feel free to reach out to me through my [Neon Cat Games website](https://neoncatgames.de/) or [Itch.io page](https://der-kekser.itch.io/).
+
+![GitHub followers](https://img.shields.io/github/followers/DerKekser?style=social) ![GitHub stars](https://img.shields.io/github/stars/DerKekser?style=social)
