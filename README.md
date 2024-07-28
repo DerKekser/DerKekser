@@ -1,6 +1,6 @@
 # Welcome to DerKekser's GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=DerKekser&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/DerKekser?style=social) ![GitHub stars](https://img.shields.io/github/stars/DerKekser?style=social)
 
 ## About Me
 
@@ -34,5 +34,3 @@ A Unity library providing various 2D and 3D sensors to detect objects within the
 ## Contact
 
 Feel free to reach out to me through my [Neon Cat Games website](https://neoncatgames.de/) or [Itch.io page](https://der-kekser.itch.io/).
-
-![GitHub followers](https://img.shields.io/github/followers/DerKekser?style=social) ![GitHub stars](https://img.shields.io/github/stars/DerKekser?style=social)
