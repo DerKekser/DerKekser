@@ -6,7 +6,7 @@
 
 Hi, I'm DerKekser from Germany! I am passionate about game development and enjoy creating various tools and systems for Unity. 
 
-- 🌐 [Neon Cat Games](https://neoncatgames.de/)
+- 🌐 [NeonCat Games](https://neoncatgames.de/)
 - 🎮 [My Itch.io Page](https://der-kekser.itch.io/)
 
 ## Projects
@@ -33,4 +33,4 @@ A Unity library providing various 2D and 3D sensors to detect objects within the
 
 ## Contact
 
-Feel free to reach out to me through my [Neon Cat Games website](https://neoncatgames.de/) or [Itch.io page](https://der-kekser.itch.io/).
+Feel free to reach out to me through my [NeonCat Games website](https://neoncatgames.de/) or [Itch.io page](https://der-kekser.itch.io/).
