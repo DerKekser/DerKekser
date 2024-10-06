@@ -1,12 +1,12 @@
-# Welcome to DerKekser's GitHub Profile!
+# Welcome to Der Kekser's GitHub Profile!
 
 ![GitHub followers](https://img.shields.io/github/followers/DerKekser?style=social) ![GitHub stars](https://img.shields.io/github/stars/DerKekser?style=social)
 
 ## About Me
 
-Hi, I'm DerKekser from Germany! I am passionate about game development and enjoy creating various tools and systems for Unity. 
+Hi, I'm Der Kekser from Germany! I am passionate about game development and enjoy creating various tools and systems for Unity. 
 
-- 🌐 [NeonCat Games](https://neoncatgames.de/)
+- 🐱 [NeonCat Games](https://neoncatgames.de/)
 - 🎮 [My Itch.io Page](https://der-kekser.itch.io/)
 
 ## Projects
@@ -33,4 +33,4 @@ A Unity library providing various 2D and 3D sensors to detect objects within the
 
 ## Contact
 
-Feel free to reach out to me through my [NeonCat Games website](https://neoncatgames.de/) or [Itch.io page](https://der-kekser.itch.io/).
+Feel free to reach out to me through my [NeonCat Games website](https://neoncatgames.de/).
