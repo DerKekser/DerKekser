@@ -16,6 +16,11 @@ A flexible Singleton Pattern for Unity.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
+### [Unity Power Bus](https://github.com/DerKekser/unity-power-bus)
+A flexible event bus system for Unity.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
 ### [Unity Save System](https://github.com/DerKekser/unity-save-system)
 A simple save system for Unity.
 
